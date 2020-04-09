@@ -1,0 +1,32 @@
+1. Escape characters are characters that python recognizes and can hinder the workings of your code. They escape using a backslash \'
+
+2. \n is a newline character (the same as the ENTER key), \t is a tab character (same as TAB key)
+
+3. Double backslash \\
+
+4. Because the string is surrounded by double quotation marks
+
+5. 
+''' 
+  By using triple quotation marks around
+  your sentence you can split it without \n.
+'''
+
+6. 
+- e
+- Hello
+- Hello
+- lo, world!
+
+7. 
+- HELLO
+- TRUE
+- hello
+
+8. 
+- ['Remember,', 'remember,', 'the', 'fith', 'of', 'November']
+- There-can-be-only-one.
+
+9. rjust(), ljust(), center()
+
+10. strip(), rstrip() or lstrip()
